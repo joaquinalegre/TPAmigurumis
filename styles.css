@@ -24,6 +24,11 @@
 .bg-gray {
   background-color: #808080;
 }
+ .bg-imagenes {
+            background-color: #abd1f1; /* Color celeste */
+            padding: 10px;
+        }
+
 
 .nav-link {
   font-family: "acme", sans-serif; /* Cambia "NombreDeLaFuente" por la fuente que desees */
